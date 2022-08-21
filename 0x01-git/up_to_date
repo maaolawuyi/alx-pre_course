@@ -1,0 +1,4 @@
+vi README.md
+This repo wwas use for learning git account setup from alx and all the alx project are manage on this account.
+git add .
+git commit -m "Update README.md"
