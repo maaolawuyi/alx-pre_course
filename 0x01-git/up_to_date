@@ -1,4 +1,3 @@
-vi README.md
-echo 'learning Git Account Setup This repo wwas use for learning git account setup from alx and all the alx project are manage on this account.' > README.md
+touch up_to_date
 git add .
-git commit -m "Update README.md"
+git commit -m "How to be up to date in git"
